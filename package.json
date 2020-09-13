@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "dat.gui": "^0.7.7",
+    "html-webpack-plugin": "^4.4.1",
+    "matter-js": "^0.14.2",
+    "node-pid-controller": "^1.0.1",
+    "p5": "^1.1.9",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
